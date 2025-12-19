@@ -12,6 +12,7 @@
     abbr={arXiv},
     abstract={While generative models, especially large language models (LLMs), are ubiquitous in today's world, principled mechanisms to assess their (in)correctness are limited. Using the conformal prediction framework, previous works construct sets of LLM responses where the probability of including an incorrect response, or error, is capped at a desired user-defined tolerance level. However, since these methods are based on p-values, they are susceptible to p-hacking, i.e., choosing the tolerance level post-hoc can invalidate the guarantees. We therefore leverage e-values to complement generative model outputs with e-scores as a measure of incorrectness. In addition to achieving the same statistical guarantees as before, e-scores provide users flexibility in adaptively choosing tolerance levels after observing the e-scores themselves, by upper bounding a post-hoc notion of error called size distortion. We experimentally demonstrate their efficacy in assessing LLM outputs for different correctness types: mathematical factuality and property constraints satisfaction.},
     arxiv={2510.25770},
+    google_scholar_id={Se3iqnhoufwC},
     pdf={https://arxiv.org/pdf/2510.25770},
     bibtex_show={true}
 }
@@ -29,6 +30,7 @@
     abstract={Supervised fine-tuning (SFT) and alignment of large language models (LLMs) are key steps in providing a good user experience. However, the concept of an appropriate alignment is inherently application-dependent, and current methods often rely on heuristic choices to drive optimization. In this work, we formulate SFT and alignment as a constrained optimization problem: the LLM is fine-tuned on a task while being required to meet application-specific requirements, without resorting to heuristics. To solve this, we propose Lagrange Large Language Models (L3Ms), which employ logarithmic barriers to enforce the constraints. This approach allows for the customization of L3Ms across diverse applications while avoiding heuristic-driven processes. We experimentally demonstrate the versatility and efficacy of L3Ms in achieving tailored alignments for various applications.},
     arxiv={2410.21533},
     code={https://github.com/Guneet-Dhillon/l3m},
+    google_scholar_id={LkGwnXOMwfcC},
     pdf={https://proceedings.iclr.cc/paper_files/paper/2025/file/92d3d2a9801211ca3693ccb2faa1316f-Paper-Conference.pdf},
     bibtex_show={true}
 }
@@ -49,6 +51,7 @@
     abstract={While conformal predictors reap the benefits of rigorous statistical guarantees on their error frequency, the size of their corresponding prediction sets is critical to their practical utility. Unfortunately, there is currently a lack of finite-sample analysis and guarantees for their prediction set sizes. To address this shortfall, we theoretically quantify the expected size of the prediction sets under the split conformal prediction framework. As this precise formulation cannot usually be calculated directly, we further derive point estimates and high-probability interval bounds that can be empirically computed, providing a practical method for characterizing the expected set size. We corroborate the efficacy of our results with experiments on real-world datasets for both regression and classification problems.},
     arxiv={2306.07254},
     code={https://github.com/Guneet-Dhillon/expected-conformal-prediction-set-size},
+    google_scholar_id={zYLM7Y9cAGgC},
     pdf={https://proceedings.mlr.press/v238/dhillon24a/dhillon24a.pdf},
     bibtex_show={true}
 }
@@ -67,6 +70,7 @@
     abstract={Episodic training is a core ingredient of few-shot learning to train models on tasks with limited labelled data. Despite its success, episodic training remains largely understudied, prompting us to ask the question: what is the best way to sample episodes? In this paper, we first propose a method to approximate episode sampling distributions based on their difficulty. Building on this method, we perform an extensive analysis and find that sampling uniformly over episode difficulty outperforms other sampling schemes, including curriculum and easy-/hard-mining. As the proposed sampling method is algorithm agnostic, we can leverage these insights to improve few-shot learning accuracies across many episodic training algorithms. We demonstrate the efficacy of our method across popular few-shot learning datasets, algorithms, network architectures, and protocols.},
     arxiv={2108.01662},
     code={https://github.com/amazon-science/uniform-episodic-sampling},
+    google_scholar_id={eQOLeE2rZwMC},
     pdf={https://proceedings.neurips.cc/paper_files/paper/2021/file/0b3f44d9054402de39441e165a4bdfe0-Paper.pdf},
     supp={https://proceedings.neurips.cc/paper_files/paper/2021/file/0b3f44d9054402de39441e165a4bdfe0-Supplemental.pdf},
     bibtex_show={true}
@@ -82,6 +86,7 @@
     abstract={Fine-tuning a deep network trained with the standard cross-entropy loss is a strong baseline for few-shot learning. When fine-tuned transductively, this outperforms the current state-of-the-art on standard datasets such as Mini-ImageNet, Tiered-ImageNet, CIFAR-FS and FC-100 with the same hyper-parameters. The simplicity of this approach enables us to demonstrate the first few-shot learning results on the ImageNet-21k dataset. We find that using a large number of meta-training classes results in high few-shot accuracies even for a large number of few-shot classes. We do not advocate our approach as the solution for few-shot learning, but simply use the results to highlight limitations of current benchmarks and few-shot protocols. We perform extensive studies on benchmark datasets to propose a metric that quantifies the "hardness" of a few-shot episode. This metric can be used to report the performance of few-shot algorithms in a more systematic way.},
     arxiv={1909.02729},
     code={https://github.com/amazon-science/few-shot-baseline},
+    google_scholar_id={IjCSPb-OGe4C},
     pdf={https://openreview.net/pdf?id=rylXBkrYDS},
     bibtex_show={true}
 }
@@ -96,6 +101,7 @@
     abstract={Neural networks are known to be vulnerable to adversarial examples. Carefully chosen perturbations to real images, while imperceptible to humans, induce misclassification and threaten the reliability of deep learning systems in the wild. To guard against adversarial examples, we take inspiration from game theory and cast the problem as a minimax zero-sum game between the adversary and the model. In general, for such games, the optimal strategy for both players requires a stochastic policy, also known as a mixed strategy. In this light, we propose Stochastic Activation Pruning (SAP), a mixed strategy for adversarial defense. SAP prunes a random subset of activations (preferentially pruning those with smaller magnitude) and scales up the survivors to compensate. We can apply SAP to pretrained networks, including adversarially trained models, without fine-tuning, providing robustness against adversarial examples. Experiments demonstrate that SAP confers robustness against attacks, increasing accuracy and preserving calibration.},
     arxiv={1803.01442},
     code={https://github.com/Guneet-Dhillon/Stochastic-Activation-Pruning},
+    google_scholar_id={YsMSGLbcyi4C},
     pdf={https://openreview.net/pdf?id=H1uR4GZRZ},
     bibtex_show={true}
 }
