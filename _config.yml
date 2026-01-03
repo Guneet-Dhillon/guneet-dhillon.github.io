@@ -303,6 +303,7 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    abbr2,
     abstract,
     additional_info,
     altmetric,
@@ -316,9 +317,10 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
-    pdf,
+    custom_pdf,
     poster,
     preview,
+    proc,
     selected,
     slides,
     supp,
