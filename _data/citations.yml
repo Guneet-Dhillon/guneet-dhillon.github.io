@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-23'
 papers:
   646vnpUAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Erratum Concerning the Obfuscated Gradients Attack on Stochastic Activation Pruning
     year: '2020'
   646vnpUAAAAJ:IjCSPb-OGe4C:
-    citations: 830
+    citations: 835
     title: A Baseline for Few-Shot Image Classification
     year: '2020'
   646vnpUAAAAJ:LkGwnXOMwfcC:
@@ -26,7 +26,7 @@ papers:
     title: Training Ising Models on Images using Sparsitron
     year: '2018'
   646vnpUAAAAJ:YsMSGLbcyi4C:
-    citations: 778
+    citations: 777
     title: Stochastic Activation Pruning for Robust Adversarial Defense
     year: '2018'
   646vnpUAAAAJ:eQOLeE2rZwMC:
@@ -34,6 +34,6 @@ papers:
     title: Uniform Sampling over Episode Difficulty
     year: '2021'
   646vnpUAAAAJ:zYLM7Y9cAGgC:
-    citations: 22
+    citations: 24
     title: On the Expected Size of Conformal Prediction Sets
     year: '2024'
