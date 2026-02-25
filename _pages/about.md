@@ -24,10 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently pursuing a DPhil in Statistics from the University of Oxford, where my research topic is _Robust Machine Learning: A Predictive and Generative Perspective_.
-I am fortunate to be supervised by Prof. Yee Whye Teh, Prof. Tom Rainforth, Prof. George Deligiannidis, and Prof. Arnaud Doucet, and to be funded by the Clarendon Fund Scholarship.
+I am currently pursuing a DPhil in Statistics at the University of Oxford.
+My thesis topic is _Robust Machine Learning: A Predictive and Generative Perspective_, supervised by Prof. Yee Whye Teh and Prof. Tom Rainforth, along with Prof. George Deligiannidis and Prof. Arnaud Doucet.
+I am the recipient of the prestigious Clarendon Fund Scholarship, with only 1 awardee from the Department of Statistics in my year.
 
-From 2018-21, I was an Applied Scientist at Amazon Web Services, Inc.
+Before starting my DPhil, I spent 3 years as an Applied Scientist at Amazon Web Services, Inc.
+Together with my research internships at Microsoft Research, Boson AI USA Inc., and CognitiveScale, I have a total of 4.5 years of industrial research experience.
 
-From 2014-18, I completed a BSc in Computer Science with Honors (Turing Scholars Honors) and a BSc in Mathematics with Honors from the University of Texas at Austin, where I also completed a Certificate in Applied Statistical Modeling and a Minor in Economics.
-My honors thesis was on _Training Ising Models on Images using Sparsitron_, supervised by Prof. Adam Klivans.
+I hold a BSc in Computer Science with Honors (Turing Scholars Honors) and a BSc in Mathematics with Honors from the University of Texas at Austin, with a GPA of 3.89 out of 4.
+My undergraduate honours thesis was on _Training Ising Models on Images using Sparsitron_, supervised by Prof. Adam Klivans.
+I also completed a Certificate in Applied Statistical Modeling and a Minor in Economics.
