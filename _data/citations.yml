@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-02'
 papers:
   646vnpUAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Erratum Concerning the Obfuscated Gradients Attack on Stochastic Activation Pruning
     year: '2020'
   646vnpUAAAAJ:IjCSPb-OGe4C:
-    citations: 836
+    citations: 837
     title: A Baseline for Few-Shot Image Classification
     year: '2020'
   646vnpUAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: "L3Ms \u2014 Lagrange Large Language Models"
     year: '2025'
   646vnpUAAAAJ:Se3iqnhoufwC:
