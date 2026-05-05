@@ -29,8 +29,8 @@ My thesis topic is _Robust Machine Learning: A Predictive and Generative Perspec
 I am the recipient of the prestigious Clarendon Fund Scholarship, with only one awardee from the Department of Statistics in my year.
 
 Before starting my DPhil, I spent 3 years as an Applied Scientist at Amazon Web Services, Inc.
-Together with my research internships at Microsoft Research, Boson AI USA Inc., and CognitiveScale, I have a total of 4.5 years of industrial research experience.
+I have also done industrial research internships at Microsoft Research, Boson AI USA Inc., and CognitiveScale.
 
-I hold a BSc in Computer Science with Honors (Turing Scholars Honors) and a BSc in Mathematics with Honors from the University of Texas at Austin, with a GPA of 3.89 out of 4.
+I hold a BSc in Computer Science with Honors (Turing Scholars Honors) and a BSc in Mathematics with Honors from the University of Texas at Austin.
 My undergraduate honours thesis was on _Training Ising Models on Images using Sparsitron_, supervised by Prof. Adam Klivans.
 During this period, I also completed a Certificate in Applied Statistical Modeling and a Minor in Economics.
