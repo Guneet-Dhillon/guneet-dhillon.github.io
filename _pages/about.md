@@ -26,7 +26,7 @@ latest_posts:
 
 I am currently pursuing a DPhil in Statistics at the University of Oxford.
 My thesis topic is _Robust Machine Learning: A Predictive and Generative Perspective_, supervised by Prof. Yee Whye Teh and Prof. Tom Rainforth, along with Prof. George Deligiannidis and Prof. Arnaud Doucet.
-I am the recipient of the prestigious Clarendon Fund Scholarship, with only one awardee from the Department of Statistics in my year.
+I am also the recipient of the prestigious Clarendon Fund Scholarship, with only one awardee from the Department of Statistics in my year.
 
 Before starting my DPhil, I spent 3 years as an Applied Scientist at Amazon Web Services, Inc.
 I have also done industrial research internships at Microsoft Research, Boson AI USA Inc., and CognitiveScale.
