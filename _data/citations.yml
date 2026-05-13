@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-13'
 papers:
   646vnpUAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Erratum Concerning the Obfuscated Gradients Attack on Stochastic Activation Pruning
     year: '2020'
   646vnpUAAAAJ:IjCSPb-OGe4C:
-    citations: 854
+    citations: 858
     title: A Baseline for Few-Shot Image Classification
     year: '2020'
   646vnpUAAAAJ:LkGwnXOMwfcC:
@@ -14,7 +14,7 @@ papers:
     title: "L3Ms \u2014 Lagrange Large Language Models"
     year: '2025'
   646vnpUAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: E-Scores for (In) Correctness Assessment of Generative Model Outputs
     year: '2025'
   646vnpUAAAAJ:WF5omc3nYNoC:
@@ -26,7 +26,7 @@ papers:
     title: Training Ising Models on Images using Sparsitron
     year: '2018'
   646vnpUAAAAJ:YsMSGLbcyi4C:
-    citations: 787
+    citations: 790
     title: Stochastic Activation Pruning for Robust Adversarial Defense
     year: '2018'
   646vnpUAAAAJ:eQOLeE2rZwMC:
